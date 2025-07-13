@@ -11,8 +11,8 @@ author_profile: true
 
 ## Recent Conference Presentations & Invited Seminars
 
+* Spatial Controls of Lower Tropospheric Inversion Strength, talk at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
 * Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator, poster at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
-* Spatial controls of Global and Regional Lower Tropospheric Inversion Strength, talk at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
 * The global energy budget: from models to observations, invited seminar at the [Vrije Universiteit Brussel (VUB) Water and Climate department](https://hydr.vub.be/) (June 2025), Brussels, Belgium
 * Convolutional Neural Networks for out-of-distributions predictions: Observation-based Estimate of Radiative Feedback and Forcing, poster at the [Gordon Research Conference "Machine Learning for Actionable Climate Science"](https://www.grc.org/machine-learning-for-actionable-climate-science-conference/2025/) (June 2025), Smithfield, RI, USA
 * Distilling machine learning-based climate emulators for physical understanding, talk at the [CESM Workshop 2025](https://www.cesm.ucar.edu/events/workshops/cesm) (June 2025), Boulder, CO, USA. [Recording here.](https://www.youtube.com/live/JI0ye39qd-4?feature=shared&t=3994)
