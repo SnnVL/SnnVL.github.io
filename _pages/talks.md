@@ -7,15 +7,14 @@ header:
 author_profile: true
 ---
 
-## Upcoming Presentations
-
-* Convolutional Neural Networks for out-of-distributions predictions: Observation-based Estimate of Radiative Feedback and Forcing, poster at the [Gordon Research Conference "Machine Learning for Actionable Climate Science"](https://www.grc.org/machine-learning-for-actionable-climate-science-conference/2025/) (June 2025), Smithfield, RI, USA
-* The global energy budget: from models to observations, invited seminar at the [Vrije Universiteit Brussel (VUB) Water and Climate department](https://hydr.vub.be/) (June 2025), Brussels, Belgium
-* Spatial controls of Global and Regional Lower Tropospheric Inversion Strength, talk at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
-* Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator, poster at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
+<!-- ## Upcoming Presentations -->
 
 ## Recent Conference Presentations & Invited Seminars
 
+* Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator, poster at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
+* Spatial controls of Global and Regional Lower Tropospheric Inversion Strength, talk at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
+* The global energy budget: from models to observations, invited seminar at the [Vrije Universiteit Brussel (VUB) Water and Climate department](https://hydr.vub.be/) (June 2025), Brussels, Belgium
+* Convolutional Neural Networks for out-of-distributions predictions: Observation-based Estimate of Radiative Feedback and Forcing, poster at the [Gordon Research Conference "Machine Learning for Actionable Climate Science"](https://www.grc.org/machine-learning-for-actionable-climate-science-conference/2025/) (June 2025), Smithfield, RI, USA
 * Distilling machine learning-based climate emulators for physical understanding, talk at the [CESM Workshop 2025](https://www.cesm.ucar.edu/events/workshops/cesm) (June 2025), Boulder, CO, USA. [Recording here.](https://www.youtube.com/live/JI0ye39qd-4?feature=shared&t=3994)
 * Observation-based estimate of effective radiative forcing, talk at the [ECS & cloud feedback virtual symposia](https://sites.google.com/tamu.edu/ecs-symposium/home) (May 2025). [Recording here @ 32:00.](https://sites.google.com/tamu.edu/ecs-symposium/event43?authuser=0)
 * [Observed radiative forcing diagnosed with a convolutional neural network and minimal use of climate models](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1682484), poster at the American Geophysical Union Annual Meeting 2024, Washington DC, USA
