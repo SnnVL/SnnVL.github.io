@@ -11,7 +11,7 @@ You can also find all articles on my [Google Scholar](https://scholar.google.com
 
 ## Weather & Climate Science
 
-* **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator", in press at Geophysical Research Letters, preprint on [arXiv 2502, 10893 (2025)](https://doi.org/10.48550/arXiv.2502.10893)
+* **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator", [Geophysical Research Letters, 52, e2025GL115432 (2025)](https://doi.org/10.1029/2025GL115432)
 * **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Observation-based estimate of Earth’s effective radiative forcing", [Proceedings of the National Academy of Sciences 122, e242544122 (2025)](https://doi.org/10.1073/pnas.2425445122)
 * M. Rugenstein, **S. Van Loon**, and E. A. Barnes, "Convolutional Neural Networks Trained on Internal Variability Predict Forced Response of TOA Radiation by Learning the Pattern Effect", [Geophysical Research Letters 52, e2024GL109581 (2025)](https://doi.org/10.1029/2024GL109581)
 * M. R. Goodliff, M. J. Hossen, **S. Van Loon**, and S. J. Fletcher, "Non-Gaussian Variational Data Assimilation with Reverse-Lognormal Errors", [Quarterly Journal of the Royal Meteorological Society, e4965 (2025)](https://doi.org/10.1002/qj.4965)
