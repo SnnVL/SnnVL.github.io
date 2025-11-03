@@ -9,8 +9,9 @@ author_profile: true
 
 You can also find all articles on my [Google Scholar](https://scholar.google.com/citations?user=6h7ft20AAAAJ&hl=en)
 
-## Weather & Climate Science
+## Atmospheric Science
 
+* **S. Van Loon** and M. Rugenstein, "Spatial Controls of Lower Tropospheric Stability", [arXiv:2510.27575 (2025)](https://doi.org/10.48550/arXiv.2510.27575)
 * **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator", [Geophysical Research Letters, 52, e2025GL115432 (2025)](https://doi.org/10.1029/2025GL115432)
 * **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Observation-based estimate of Earth’s effective radiative forcing", [Proceedings of the National Academy of Sciences 122, e242544122 (2025)](https://doi.org/10.1073/pnas.2425445122)
 * M. Rugenstein, **S. Van Loon**, and E. A. Barnes, "Convolutional Neural Networks Trained on Internal Variability Predict Forced Response of TOA Radiation by Learning the Pattern Effect", [Geophysical Research Letters 52, e2024GL109581 (2025)](https://doi.org/10.1029/2024GL109581)

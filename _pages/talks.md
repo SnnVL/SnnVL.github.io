@@ -7,7 +7,10 @@ header:
 author_profile: true
 ---
 
-<!-- ## Upcoming Presentations -->
+## Upcoming Presentations
+
+* [Distilling Machine Learning-based Climate Emulators for Physical Understanding](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868223), contributed talk at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
+* [Attributing Trends of Lower Tropospheric Inversion Strength](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868296), contributed talk at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
 
 ## Recent Conference Presentations & Invited Seminars
 
@@ -29,6 +32,7 @@ author_profile: true
 
 ## Popular Science & Media Features
 
+* Quantum revolution at ultracold temperatures, invited talk at [Nerd Nite Asheville](https://www.youtube.com/live/gNwR9Ibg_I8?si=XZCqgU1h3sEAo8LZ&t=991) (2025)
 * Mastering Chaos: A Spooky Intro to Predicting the Future, talk at [Nerd Nite Fort Collins](https://fortcollins.nerdnite.com/2024/10/04/october-17th-making-predictions-amongst-chaos-and-beauty-in-mathematics/) (2024)
 * [Mastering Chaos: A Spooky Introduction to Data Assimilation](https://seasonedchaos.github.io/Mastering-Chaos-A-Spooky-Introduction-to-Data-Assimilation/), Blogpost for Seasoned Chaos (2023)
 * Quantum revolution at ultracold temperatures, invited talk at [Nerd Nite Denver](https://denver.nerdnite.com/) (2024)
