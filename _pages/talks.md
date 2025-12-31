@@ -7,13 +7,12 @@ header:
 author_profile: true
 ---
 
-## Upcoming Presentations
-
-* [Distilling Machine Learning-based Climate Emulators for Physical Understanding](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868223), contributed talk at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
-* [Attributing Trends of Lower Tropospheric Inversion Strength](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868296), contributed talk at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
+<!-- ## Upcoming Presentations -->
 
 ## Recent Conference Presentations & Invited Seminars
 
+* [Distilling Machine Learning-based Climate Emulators for Physical Understanding](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868223), *highlighted talk* at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
+* [Attributing Trends of Lower Tropospheric Inversion Strength](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1868296), contributed talk at the American Geophysical Union Fall Meeting 2025, New Orleans, LA, USA
 * Spatial Controls of Lower Tropospheric Inversion Strength, talk at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
 * Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator, poster at the joint [Cloud Feedback Model Intercomparison Project -- CloudSense Meeting (July 2025)](https://sites.exeter.ac.uk/cfmip2025/), Exeter, UK
 * The global energy budget: from models to observations, invited seminar at the [Vrije Universiteit Brussel (VUB) Water and Climate department](https://hydr.vub.be/) (June 2025), Brussels, Belgium
