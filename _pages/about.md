@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at Colorado State University (CSU) in the Department of Atmospheric Science, where I employ theoretical and computational (such as artificial intelligence) methods to study climate dynamics, the radiative energy budget, and extreme events. Throughout my career, I have obtained experience in different scientific fields and departments, giving me unique insight into the broader field of science. I got my PhD in theoretical physics, but felt the urge to apply my scientific thinking to the more pressing challenges of climate change.
+I am a Research Scientist II at Colorado State University (CSU) in the Department of Atmospheric Science, where I employ theoretical and computational (such as artificial intelligence) methods to study climate dynamics, the radiative energy budget, and extreme events. Throughout my career, I have obtained experience in different scientific fields and departments, giving me unique insight into the broader field of science. I got my PhD in theoretical physics, but felt the urge to apply my scientific thinking to the more pressing challenges of climate change.
 
 My [most recent work](/research/) has focused on using artificial intelligence (AI) to better understand climate processes that affect our planet. For example, I use AI methods to make better use of existing climate model simulations and connect them with observations. I also work towards advancing more traditional methods, by relaxing the normal assumption in [data assimilation](https://seasonedchaos.github.io/Mastering-Chaos-A-Spooky-Introduction-to-Data-Assimilation/) techniques.
 
