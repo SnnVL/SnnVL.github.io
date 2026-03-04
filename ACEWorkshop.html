@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ai2 ACE Workshop | CSU CIRA</title>
+    <title>ACE Workshop | CSU</title>
     <style>
         :root {
             --csu-green: #1E4D2B;
@@ -86,6 +86,20 @@
 
         .btn:hover { background: #14351d; transform: scale(1.02); }
 
+        .schedule-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        .schedule-table th, .schedule-table td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .schedule-table th { background-color: #eee; }
+
         footer {
             text-align: center;
             padding: 60px 20px;
@@ -98,13 +112,17 @@
 
 <header>
     <h1>Ai2 Climate Emulator (ACE) Workshop</h1>
-    <p>Encouraging hands-on experience with the Ai2 Climate Emulator</p>
+    <p>Encouraging research applications with the Ai2 Climate Emulator</p>
 </header>
 
 <div class="container">
     <div class="card">
         <div class="event-meta">
             MAY 14-15, 2026 | CIRA COMMONS, COLORADO STATE UNIVERSITY
+        </div>
+
+        <div style="text-align: center; margin-top: 50px;">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdK8M55HxP-MlMJATDCdKq_Y3QOVMxIB-0XuZkFOeHQRJqgyw/viewform?usp=preview" class="btn">Register here</a>
         </div>
 
         <h2>Overview</h2>
@@ -121,16 +139,20 @@
                 <a href="https://arxiv.org/abs/2310.02074" class="model-link">ACE</a> & <a href="https://doi.org/10.1038/s41612-025-01090-0" class="model-link">ACE2</a> are autoregressive, atmosphere-only models that capture subseasonal to decadal atmospheric variability and forced responses. ACE & ACE2 have been trained on ERA5 reanalysis and different atmospheric climate models.
             </li>
             <li>
-                <a href="https://arxiv.org/abs/2509.12490" class="model-link">SamudrACE</a> is a coupled atmosphere-ocean emulator. It couples ACE2 with the 3D Samudra ocean model to simulate Earth system interactions, including emergent phenomena like ENSO.
+                <a href="https://arxiv.org/abs/2509.12490" class="model-link">SamudrACE</a> is a coupled atmosphere-ocean emulator trained on GFDL's CM4. It couples ACE2 with the 3D Samudra ocean model to simulate Earth system interactions, including emergent phenomena like ENSO.
             </li>
             <li>
-                <a href="https://doi.org/10.1029/2024JH000575" class="model-link">ACE2-SOM</a> couples ACE2 to a slab ocean model and is trained on climate states with different CO₂ concentrations.
+                <a href="https://doi.org/10.1029/2024JH000575" class="model-link">ACE2-SOM</a> couples ACE2 trained on GFDL's SHiELD to a slab ocean model and is trained on climate states with different CO₂ concentrations.
             </li>
             <li>
                 <a href="https://arxiv.org/abs/2512.18224" class="model-link">HiRO-ACE</a> uses 
-                a two-stage framework with a stochastic version of ACE (ACE2S) and diffusion-based downscaling to generate 3-km kilometer-scale fields from coarse global inputs. It is trained on X-SHiELD, a global storm-resolving model.
+                a two-stage framework with a stochastic version of ACE (ACE2S) and diffusion-based downscaling to generate 3km-scale fields from coarse global inputs. It is trained on X-SHiELD, a global storm-resolving model.
             </li>
         </ul>
+
+        <p>
+            With this workshop, we want to bring together people already using climate model emulators or want to explore their use in their research, to share experiences and foster exchange. Whether you are a seasoned climate modeler, a student eager to learn about new tools, or just curious about the potential of AI in atmospheric science, this workshop is for you. You will learn about the capabilities and limitations of ACE, get hands-on experience running ACE for your own research questions, and have the opportunity to connect with other researchers interested in using ACE.
+        </p>
 
         <div class="highlight-box">
             <strong>Who should attend?</strong> We welcome participants at <strong>any career stage</strong> interested in learning about ACE and its components. The workshop is designed to be accessible, but a basic understanding of Python is required for the hands-on sessions.
@@ -139,7 +161,7 @@
 
         <h2>Goal of the workshop</h2>
         <p>
-            The workshop will include an introduction on ACE by Andre Perkins, but the main focus will be on practical applications of ACE: hands-on sessions where participants will have the opportunity to run ACE and its components on their own laptops. We will provide potential applications to experiment with ACE, but encourage participants to bring their own ideas and questions.
+            The workshop will include an introduction on ACE by Andre Perkins and presentations on recent research with ACE, but the main focus will be on practical applications of ACE: hands-on sessions where participants will have the opportunity to run ACE and its components on their own laptops (alone or in groups). We will provide potential applications to experiment with ACE, but encourage participants to bring their own ideas and questions.
             This includes, but is not limited to:
         </p>
         <ul>
@@ -148,6 +170,37 @@
             <li><strong>Multiscale dynamics:</strong> techniques for both global-scale circulation and regional downscaling with HiRO-ACE for localized impacts.</li>
             <li><strong>Coupled dynamics:</strong> using SamudrACE to study coupled phenomena like ENSO.</li>
         </ul>
+
+
+        <h2>Practical Information</h2>
+        <p>
+            We encourage attending the full two days of the workshop to give yourself the opportunity to see if ACE might be useful for your research, under the guidance of one of the developers. However, it is also possible to attend only (part of) the first day to get a general overview of ACE. The schedule below is preliminary and subject to change.
+        </p>
+        <h3>Day 1 (May 14): Introduction & ACE applications</h3>
+        <table class="schedule-table">
+            <tr><th>Time</th><th>Topic</th></tr>
+            <tr><td>09:00AM -- 10:30AM</td><td>Overview of different versions/components of ACE, potential use cases and known limitations</td></tr>
+            <tr><td>10:30AM -- 11:00AM</td><td>Break</td></tr>
+            <tr><td>11:00AM -- 12:00PM</td><td>ACE setup & interactive runtime</td></tr>
+            <tr><td>12:00PM -- 01:00PM</td><td>Lunch</td></tr>
+            <tr><td>01:00PM -- 02:30PM</td><td>Presentations of recent ACE research applications</td></tr>
+            <tr><td>02:30PM -- 03:00PM</td><td>Break</td></tr>
+            <tr><td>03:00PM -- 05:00PM</td><td>Using ACE for your own applications</td></tr>
+        </table>
+
+        <h3>Day 2 (May 15): ACE in the wild</h3>
+        <table class="schedule-table">
+            <tr><th>Time</th><th>Topic</th></tr>
+            <tr><td>09:00AM -- 12:00AM</td><td>Hands-on experience with ACE</td></tr>
+            <tr><td>12:00PM -- 01:00PM</td><td>Lunch</td></tr>
+            <tr><td>01:00PM -- 02:00PM</td><td>Hands-on experience with ACE</td></tr>
+            <tr><td>02:00PM -- 02:30PM</td><td>Break</td></tr>
+            <tr><td>02:30PM -- 04:00PM</td><td>Participant presentations on ACE applications</td></tr>
+        </table>
+
+        <p>
+            All sessions will be held in person at CIRA Commons, Colorado State University. Lunch & coffee will be provided for registered full-workshop participants. 
+        </p>
 
         <div style="text-align: center; margin-top: 50px;">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdK8M55HxP-MlMJATDCdKq_Y3QOVMxIB-0XuZkFOeHQRJqgyw/viewform?usp=preview" class="btn">Register here</a>
