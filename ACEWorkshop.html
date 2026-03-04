@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai2 ACE Workshop | CSU CIRA</title>
+    <style>
+        :root {
+            --csu-green: #1E4D2B;
+            --csu-gold: #C8C372;
+            --ai2-blue: #0056b3;
+            --text-dark: #2d2d2d;
+            --bg-light: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.7;
+            color: var(--text-dark);
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-light);
+        }
+
+        header {
+            background: linear-gradient(rgba(30, 77, 43, 0.9), rgba(0, 0, 0, 0.8)), 
+                        url('https://www.cira.colostate.edu/wp-content/uploads/2019/05/CIRA_Building_Sunset.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            padding: 0 20px 60px;
+        }
+
+        .card {
+            background: white;
+            padding: 45px;
+            margin-top: -80px;
+            border-radius: 12px;
+            box-shadow: 0 10px 35px rgba(0,0,0,0.2);
+        }
+
+        h1 { font-size: 3rem; margin-bottom: 10px; }
+        h2 { color: var(--csu-green); border-bottom: 2px solid var(--csu-gold); padding-bottom: 10px; margin-top: 40px; }
+        
+        .event-meta {
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: bold;
+            color: var(--csu-green);
+            font-size: 1.2rem;
+        }
+
+        .highlight-box {
+            background: #f1f3f5;
+            border-left: 6px solid var(--csu-green);
+            padding: 25px;
+            margin: 30px 0;
+        }
+
+        .model-link {
+            color: var(--ai2-blue);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .model-link:hover { text-decoration: underline; }
+
+        .btn {
+            display: inline-block;
+            background: var(--csu-green);
+            color: white;
+            padding: 18px 40px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover { background: #14351d; transform: scale(1.02); }
+
+        footer {
+            text-align: center;
+            padding: 60px 20px;
+            background: #222;
+            color: #bbb;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ai2 Climate Emulator (ACE) Workshop</h1>
+    <p>Encouraging hands-on experience with the Ai2 Climate Emulator</p>
+</header>
+
+<div class="container">
+    <div class="card">
+        <div class="event-meta">
+            MAY 14-15, 2026 | CIRA COMMONS, COLORADO STATE UNIVERSITY
+        </div>
+
+        <h2>Overview</h2>
+        <p>
+            Join us for a 2-day workshop on the <a href="https://allenai.org/blog/ai2-climate-emulator" class="model-link">Ai2 Climate Emulator (ACE)</a>. ACE is a fast, accurate, state-of-the-art open-source AI emulator of weather and climate trained on observational reanalysis such as ERA5 or physics-based climate models. The workshop will be led by Andre Perkins, who is visiting us from the <a href="https://allenai.org/climate-modeling" class="model-link">Allen Institute for AI (Ai2)</a>.
+        </p>
+
+        <p>
+            ACE is a <a href="https://huggingface.co/collections/allenai/ace" class="model-link">family of models</a> designed to simulate atmospheric variability from the time scale of hours to centuries. ACE is a data-driven weather & climate model that is stable on climatic timescales. Depending on the application, multiple versions exist: 
+        </p>
+
+        <ul class="model-list">
+            <li>
+                <a href="https://arxiv.org/abs/2310.02074" class="model-link">ACE</a> & <a href="https://doi.org/10.1038/s41612-025-01090-0" class="model-link">ACE2</a> are autoregressive, atmosphere-only models that capture subseasonal to decadal atmospheric variability and forced responses. ACE & ACE2 have been trained on ERA5 reanalysis and different atmospheric climate models.
+            </li>
+            <li>
+                <a href="https://arxiv.org/abs/2509.12490" class="model-link">SamudrACE</a> is a coupled atmosphere-ocean emulator. It couples ACE2 with the 3D Samudra ocean model to simulate Earth system interactions, including emergent phenomena like ENSO.
+            </li>
+            <li>
+                <a href="https://doi.org/10.1029/2024JH000575" class="model-link">ACE2-SOM</a> couples ACE2 to a slab ocean model and is trained on climate states with different CO₂ concentrations.
+            </li>
+            <li>
+                <a href="https://arxiv.org/abs/2512.18224" class="model-link">HiRO-ACE</a> uses 
+                a two-stage framework with a stochastic version of ACE (ACE2S) and diffusion-based downscaling to generate 3-km kilometer-scale fields from coarse global inputs. It is trained on X-SHiELD, a global storm-resolving model.
+            </li>
+        </ul>
+
+        <div class="highlight-box">
+            <strong>Who should attend?</strong> We welcome participants at <strong>any career stage</strong> interested in learning about ACE and its components. The workshop is designed to be accessible, but a basic understanding of Python is required for the hands-on sessions.
+        </div>
+
+
+        <h2>Goal of the workshop</h2>
+        <p>
+            The workshop will include an introduction on ACE by Andre Perkins, but the main focus will be on practical applications of ACE: hands-on sessions where participants will have the opportunity to run ACE and its components on their own laptops. We will provide potential applications to experiment with ACE, but encourage participants to bring their own ideas and questions.
+            This includes, but is not limited to:
+        </p>
+        <ul>
+            <li><strong>Large ensembles:</strong> creating large ensembles of the historical climate using ACE2-ERA5 to study variability and forced responses on time scales from subseasonal to decadal.</li>
+            <li><strong>Idealized SST experiments:</strong> changing the boundary conditions of ACE to test the response to different SST perturbations.</li>
+            <li><strong>Multiscale dynamics:</strong> techniques for both global-scale circulation and regional downscaling with HiRO-ACE for localized impacts.</li>
+            <li><strong>Coupled dynamics:</strong> using SamudrACE to study coupled phenomena like ENSO.</li>
+        </ul>
+
+        <div style="text-align: center; margin-top: 50px;">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdK8M55HxP-MlMJATDCdKq_Y3QOVMxIB-0XuZkFOeHQRJqgyw/viewform?usp=preview" class="btn">Register here</a>
+            <p style="font-size: 0.9rem; color: #777; margin-top: 20px;">
+                Space is limited, please register early. Feel free to <a href="mailto:senne.van_loon@colostate.edu">contact us</a> with any questions or suggestions.
+            </p>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 Colorado State University & Allen Institute for AI</p>
+    <p>Hosted at the Cooperative Institute for Research in the Atmosphere (CIRA) Commons</p>
+</footer>
+
+</body>
+</html>
