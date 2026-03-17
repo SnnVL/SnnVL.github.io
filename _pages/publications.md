@@ -11,6 +11,7 @@ You can also find all articles on my [Google Scholar](https://scholar.google.com
 
 ## Atmospheric Science
 
+* **S. Van Loon**, M. Rugenstein, Mark D. Zelinka, and Timothy Andrews, "Recent Weakening of the Global Radiative Feedback", [arXiv:2603.12515 (2026)](https://doi.org/10.48550/arXiv.2603.12515)
 * **S. Van Loon** and M. Rugenstein, "Spatial Controls of Lower Tropospheric Stability", [arXiv:2510.27575 (2025)](https://doi.org/10.48550/arXiv.2510.27575)
 * L. Fredericks, M. Rugenstein, D. W. J. Thompson, **S. Van Loon**, F. Falasca, R. Basinski-Ferris, P. Ceppi, Q. Wu, J. Bloch-Johnson, M. Alessi, and S. M. Kang, "Quantifying the radiative response to surface temperature variability: A critical comparison of current methods", [arXiv:2511.00731 (2025)](https://doi.org/10.48550/arXiv.2511.00731)
 * **S. Van Loon**, M. Rugenstein, and E. A. Barnes, "Reanalysis-based Global Radiative Response to Sea Surface Temperature Patterns: Evaluating the Ai2 Climate Emulator", [Geophysical Research Letters, 52, e2025GL115432 (2025)](https://doi.org/10.1029/2025GL115432)

@@ -35,6 +35,18 @@ My work has focused on using ML to bridge this gap, with the main goal to better
 {: style="text-align: justify" }
 Effective radiative forcing is the radiative perturbation of the atmosphere before surface temperature changes. Quantifying this effect is key to understanding Earth's energy balance, testing climate theories, building climate models, and attributing climate change. Effective forcing cannot be observed and its calculation relies on climate models, which come with biases and assumptions of the radiative effect of emissions and cloud processes that are not understood well yet. In [our work](https://doi.org/10.1073/pnas.2425445122), we develop a new framework to calculate historical forcing that makes minimal use of climate models, by combining artificial intelligence with direct observations. Our forcing estimate indicates a strong upwards trend in the last two decades, can be updated immediately with new observations, and increases our understanding of Earth's recent energy imbalance. Effective radiative forcing has substantially increased since 2021 and has not been countered by a strongly negative radiative response until 2024, consistent with exceptional warmth in 2023 and 2024.
 
+### Recent Weakening of the Global Radiative Feedback
+
+<div style="float: right; width: 45%; margin-left: 20px; margin-top: 5px;">
+    <a href="https://doi.org/10.48550/arXiv.2603.12515" target="_blank">
+        <img src="../images/historical_feedback.png" alt="Global Radiative Feedback" style="width: 100%;">
+    </a>
+    <p style="text-align: center; font-size: 0.9em;"><em>Historical Global Radiative Feedback</em></p>
+</div>
+
+{: style="text-align: justify" }
+The Earth responds to the radiative forcing by warming, it radiating excess heat to space. This cooling mechanism, known as radiative feedback, keeps the climate stable. The strength of the feedback depends on the geographical pattern of surface temperature changes. Similar to the observation-based radiative forcing, we use a neural network to predict the radiative feedback from observed surface temperature. [We find](https://doi.org/10.48550/arXiv.2603.12515) that the climate was most stable in the 1990s. Since then, the feedback has weakened, that is, the climate is currently less efficient at losing heat than in the 1980s and 1990s. We attribute this weakening to spatially changing temperature patterns, especially in the subtropical Northeast Pacific Ocean, and confirm this with climate model experiments. By using machine learning to process current temperature fields, we can now monitor changes in Earth's climate stability in near real-time, helping us better understand how the planet's warming rate is evolving.
+
 ## Machine Learning-based Earth System Modeling
 
 {: style="text-align: justify" }
@@ -43,7 +55,7 @@ Recent advances in machine learning have made it possible to emulate the physica
 ### Distilling Climate Emulators
 
 <div style="float: right; width: 40%; margin-left: 10px;">
-    <a href="https://doi.org/10.48550/arXiv.2502.10893" target="_blank">
+    <a href="https://doi.org/10.1029/2025GL115432" target="_blank">
         <img src="../images/ACE_GF.png" alt="ACE Green's function" style="width: 100%;">
     </a>
     <p style="text-align: center; font-size: 0.9em;"><em>
@@ -55,7 +67,7 @@ Recent advances in machine learning have made it possible to emulate the physica
 The progress made over the last few years has been significant and machine learning is showing great promise to address many open problems in climate science. Yet, these machine learning-based emulators have to be evaluated before they can be trusted to answer actual scientific questions similar to traditional Earth system models.
 
 {: style="text-align: justify" }
-[We propose](https://doi.org/10.48550/arXiv.2502.10893) Green's function simulations – idealized experiments that linearize the causal response to localized surface temperature perturbations – as a "distillation model" of climate emulators. The linear Green’s functions allow us to physically interpret and evaluate the nonlinear statistical climate emulator and understand whether it provides answers for the correct physical reasons.
+[We propose](https://doi.org/10.1029/2025GL115432) Green's function simulations – idealized experiments that linearize the causal response to localized surface temperature perturbations – as a "distillation model" of climate emulators. The linear Green’s functions allow us to physically interpret and evaluate the nonlinear statistical climate emulator and understand whether it provides answers for the correct physical reasons.
 
 ## Extreme Weather & Climate Events
 
