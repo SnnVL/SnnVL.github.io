@@ -11,7 +11,7 @@ You can also find all articles on my [Google Scholar](https://scholar.google.com
 
 ## Atmospheric Science
 
-* L. Fredericks, M. Rugenstein, D. W. J. Thompson, **S. Van Loon**, F. Falasca, R. Basinski-Ferris, P. Ceppi, Q. Wu, J. Bloch-Johnson, M. Alessi, and S. M. Kang, "Quantifying the radiative response to surface temperature variability: A critical comparison of current methods", [Journal of Climate, , e250612 (2026)](https://doi.org/10.1175/JCLI-D-25-0612.1)
+* L. Fredericks, M. Rugenstein, D. W. J. Thompson, **S. Van Loon**, F. Falasca, R. Basinski-Ferris, P. Ceppi, Q. Wu, J. Bloch-Johnson, M. Alessi, and S. M. Kang, "Quantifying the radiative response to surface temperature variability: A critical comparison of current methods", [Journal of Climate, e250612 (2026)](https://doi.org/10.1175/JCLI-D-25-0612.1)
 * O. Lee, M. Rugenstein, J. K. C. Rugenstein, **S. Van Loon**, "Contextualizing Southwest US Precipitation in Past and Future Mean Climates with Marine Heatwaves", [ESS Open Archive (2026)](https://doi.org/10.22541/essoar.15002447/v1)
 * **S. Van Loon**, M. Rugenstein, Mark D. Zelinka, and Timothy Andrews, "Recent Weakening of the Global Radiative Feedback", [arXiv:2603.12515 (2026)](https://doi.org/10.48550/arXiv.2603.12515)
 * **S. Van Loon** and M. Rugenstein, "Spatial Controls of Lower Tropospheric Stability", [arXiv:2510.27575 (2025)](https://doi.org/10.48550/arXiv.2510.27575)
