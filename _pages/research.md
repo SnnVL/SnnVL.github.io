@@ -38,14 +38,14 @@ Effective radiative forcing is the radiative perturbation of the atmosphere befo
 ### Recent Weakening of the Global Radiative Feedback
 
 <div style="float: right; width: 45%; margin-left: 20px; margin-top: 5px;">
-    <a href="https://doi.org/10.48550/arXiv.2603.12515" target="_blank">
+    <a href="https://doi.org/10.1029/2026GL122980" target="_blank">
         <img src="../images/historical_feedback.png" alt="Global Radiative Feedback" style="width: 100%;">
     </a>
     <p style="text-align: center; font-size: 0.9em;"><em>Historical Global Radiative Feedback</em></p>
 </div>
 
 {: style="text-align: justify" }
-The Earth responds to the radiative forcing by warming, it radiating excess heat to space. This cooling mechanism, known as radiative feedback, keeps the climate stable. The strength of the feedback depends on the geographical pattern of surface temperature changes. Similar to the observation-based radiative forcing, we use a neural network to predict the radiative feedback from observed surface temperature. [We find](https://doi.org/10.48550/arXiv.2603.12515) that the climate was most stable in the 1990s. Since then, the feedback has weakened, that is, the climate is currently less efficient at losing heat than in the 1980s and 1990s. We attribute this weakening to spatially changing temperature patterns, especially in the subtropical Northeast Pacific Ocean, and confirm this with climate model experiments. By using machine learning to process current temperature fields, we can now monitor changes in Earth's climate stability in near real-time, helping us better understand how the planet's warming rate is evolving.
+The Earth responds to the radiative forcing by warming, it radiating excess heat to space. This cooling mechanism, known as radiative feedback, keeps the climate stable. The strength of the feedback depends on the geographical pattern of surface temperature changes. Similar to the observation-based radiative forcing, we use a neural network to predict the radiative feedback from observed surface temperature. [We find](https://doi.org/10.1029/2026GL122980) that the climate was most stable in the 1990s. Since then, the feedback has weakened, that is, the climate is currently less efficient at losing heat than in the 1980s and 1990s. We attribute this weakening to spatially changing temperature patterns, especially in the subtropical Northeast Pacific Ocean, and confirm this with climate model experiments. By using machine learning to process current temperature fields, we can now monitor changes in Earth's climate stability in near real-time, helping us better understand how the planet's warming rate is evolving.
 
 ## Machine Learning-based Earth System Modeling
 
